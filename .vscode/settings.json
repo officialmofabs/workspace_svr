@@ -1,0 +1,144 @@
+{
+    {
+        "[python]": {
+            "editor.defaultFormatter": "ms-python.black-formatter",
+            "editor.formatOnType": true,
+            "editor.formatOnSave": true
+        },
+        "editor.inlineSuggest.enabled": true,
+        "editor.lineHeight": 17,
+        "files.autoSave": "off",
+        "jupyter.themeMatplotlibPlots": true,
+        "jupyter.widgetScriptSources": [
+            "unpkg.com",
+            "jsdelivr.com"
+        ],
+        "notebook.experimental.outputScrolling": true,
+        "files.exclude": {
+            "**/.csv": true,
+            "**/.parquet": true,
+            "**/.pkl": true,
+            "**/.xls": true
+        },
+        "git.enableSmartCommit": true,
+        "git.autofetch": true,
+        "workbench.productIconTheme": "material-product-icons",
+        "Codegeex.Privacy": true,
+        "gitlens.autolinks": [
+            {
+                "prefix": "IGE Clouds"
+            }
+        ],
+        "gitlens.views.commitDetails.files.layout": "list",
+        "[oraclesql]": {
+            "editor.suggest.showSnippets": true,
+            "editor.quickSuggestions": {
+                "comments": "on",
+                "strings": "on",
+                "other": "on"
+            }
+        },
+        "workbench.colorTheme": "GitHub Light Colorblind (Beta)",
+        "gitConfigUser.profiles": [
+            {
+                "label": "Work",
+                "userName": "Mo Fabs",
+                "email": "moses.f@igelimited.com",
+                "selected": true
+            },
+            {
+                "label": "Moses Fabiyi",
+                "email": "officialmofabs@outlook.com",
+                "userName": "Moses Fabiyi",
+                "selected": true
+            }
+        ],
+        "GithubGistExplorer.explorer.gistSortBy": "Last Updated",
+        "GithubGistExplorer.explorer.gistAscending": true,
+        "GithubGistExplorer.explorer.subscriptionSortBy": "Last Updated",
+        "GithubGistExplorer.explorer.subscriptionAscending": true,
+        "refactai.apiKey": "LlGUVFPpbEptk4Bhi8VaUSar",
+        "tabnine.experimentalAutoImports": true,
+        "gitbook.orgId": "pWUjYj7GKg7xDAci9sQn",
+        "tabnine.receiveBetaChannelUpdates": true,
+        "workspace-manager.includeGlobPattern": [
+            "G:\\Users\\officialmofabs"
+        ],
+        "git-autoconfig.configList": [
+            {
+                "user.email": "officialmofabs@outlook.com",
+                "user.name": "Moses Fabiyi"
+            }
+        ],
+        "GithubGistExplorer.github.address": "https://gist.github.com/officialmofabs",
+        "GithubGistExplorer.github.username": "officialmofabs",
+        "GithubGistExplorer.import.excludes": [
+            
+            ".git",
+            ".gradle",
+            ".vscode",
+            "node_modules"
+        ],
+        "rsp-ui.enableStartServerOnActivation": [
+            {
+                "id": "redhat.vscode-server-connector",
+                "name": "Red Hat Server Connector",
+                "startOnActivation": true
+            }
+        ],
+        "yaml.schemas": {
+            "file:///home/officialmofabs/.vscode-insiders/extensions/docsmsft.docs-yaml-1.0.5/dist/toc.schema.json": "/toc\\.yml/i"
+        },
+        "DockerRun.DisableAutoGenerateConfig": true,
+        "symbols.hidesExplorerArrows": false,
+        "vsicons.dontShowNewVersionMessage": true,
+        "redhat.telemetry.enabled": true,
+        "workbench.editorAssociations": {
+            "{git,gitlens}:/**/*.{md,csv,svg}": "default"
+        },
+        "workbench.editor.autoLockGroups": {
+            "mainThreadWebview-markdown.preview": true,
+            "default": true,
+            "jupyter-notebook": true,
+            "workbench.editors.gettingStartedInput": true
+        },
+        "breadcrumbs.enabled": true,
+        "accessibility.signalOptions.debouncePositionChanges": true,
+        "scm.alwaysShowActions": true,
+        "scm.alwaysShowRepositories": true,
+        "workbench.editor.alwaysShowEditorActions": true,
+        "files.autoGuessEncoding": true,
+        "git.allowForcePush": true,
+        "git.allowNoVerifyCommit": true,
+        "git.alwaysShowStagedChangesResourceGroup": true,
+        "git.alwaysSignOff": true,
+        "git.autoStash": true,
+        "git.branchRandomName.enable": true,
+        "application.experimental.rendererProfiling": true,
+        "workbench.experimental.cloudChanges.partialMatches.enabled": true,
+        "editor.minimap.enabled": false,
+        "ipynb.experimental.serialization": true,
+        "circleci.hostUrl": "",
+        "workbench.iconTheme": "vscode-icons",
+        "dashyeah.title": "Projects",
+        "dashyeah.debug": false,
+        "dashyeah.database": [],
+        "dashyeah.folderSizing": "col-12 col-sm-6 col-md-4 col-lg-3",
+        "dashyeah.columnSizing": "col-12 col-sm-6 col-md-4 col-lg-3",
+        "dashyeah.showPaths": true,
+        "dashyeah.fontSize": "font-size-normal",
+        "dashyeah.rounded": true,
+        "dashyeah.openOnNewWindow": true,
+        "dashyeah.openInNewWindow": false
+    }
+    "python.analysis.extraPaths": [
+        "/home/developer/.vscode-insiders/extensions/continue.continue-0.0.412-linux-x64"
+    ],
+    "python.autoComplete.extraPaths": [
+        "/home/developer/.vscode-insiders/extensions/continue.continue-0.0.412-linux-x64"
+    ],
+    "workbench.colorCustomizations": {
+        "editor.lineHighlightBackground": "#1073cf2d",
+        "editor.lineHighlightBorder": "#9fced11f"
+    }
+}
